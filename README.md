@@ -1,6 +1,6 @@
-## Hi there my name is Bryan Sereno S👋
+# Hi there my name is Bryan Sereno S👋
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning deep learning & computer vision models
 
 
